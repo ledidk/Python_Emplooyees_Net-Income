@@ -1,5 +1,3 @@
-# Python_Emplooyes_Net-Income
-
 # Lab Project: Python File - db_to_csv and pop_db 
 
 ## Description
